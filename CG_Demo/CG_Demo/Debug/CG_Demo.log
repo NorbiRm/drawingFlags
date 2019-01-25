@@ -1,0 +1,14 @@
+﻿  CG_Demo.cpp
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(84): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(86): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(113): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(146): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(147): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(148): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(153): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(159): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(161): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(165): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(168): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+d:\documents\itesm\8vo\gráficas computacionales\cg_demo_vs2015\cg_demo\cg_demo\source\cg_demo.cpp(170): warning C4305: '-=': truncamiento de 'double' a 'float'
+  CG_Demo.vcxproj -> D:\Documents\ITESM\8vo\Gráficas Computacionales\CG_Demo_VS2015\CG_Demo\Debug\CG_Demo.exe
